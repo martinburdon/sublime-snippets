@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+console.debug('%c ${1:}', 'background: #222; color: #bada55');
+]]></content>
+  <tabTrigger>bug</tabTrigger>
+</snippet>

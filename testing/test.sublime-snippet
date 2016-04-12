@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+describe('${1}', function() {
+  beforeEach(function() {
+    ${2}
+  }
+
+  describe('${3}', function() {
+    it('${4}', function() {
+      expect(${5}).to.be.eql(${6});
+    });
+  }
+});
+
+]]></content>
+  <tabTrigger>test</tabTrigger>
+</snippet>
