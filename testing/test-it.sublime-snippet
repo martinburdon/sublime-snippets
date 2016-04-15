@@ -4,5 +4,5 @@ it('${1}', function() {
   ${2}
 });
 ]]></content>
-  <tabTrigger>test-it</tabTrigger>
+  <tabTrigger>it</tabTrigger>
 </snippet>

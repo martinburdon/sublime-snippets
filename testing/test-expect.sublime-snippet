@@ -2,5 +2,5 @@
   <content><![CDATA[
 expect(${1}).${2}(${3});
 ]]></content>
-  <tabTrigger>test-expect</tabTrigger>
+  <tabTrigger>expect</tabTrigger>
 </snippet>

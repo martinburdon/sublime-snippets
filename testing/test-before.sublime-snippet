@@ -4,5 +4,5 @@ beforeEach(function() {
   ${1}
 }
 ]]></content>
-  <tabTrigger>test-before</tabTrigger>
+  <tabTrigger>before</tabTrigger>
 </snippet>

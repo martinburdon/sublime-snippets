@@ -6,5 +6,5 @@ describe('${1}', function() {
   });
 });
 ]]></content>
-  <tabTrigger>test-describe</tabTrigger>
+  <tabTrigger>describe</tabTrigger>
 </snippet>
