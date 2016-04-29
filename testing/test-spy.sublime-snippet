@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+spy(${1}, '${2}');
+]]></content>
+  <tabTrigger>spy</tabTrigger>
+</snippet>
